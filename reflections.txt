@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+The reflection answers at least three of the four questions:
+
+---
+
+
+What new skills have you learned?
+A: Learnt MDN as a resource, learnt some new html tags such as <sup>, <sub>, <strike>
+What has been easy? 
+A: So far, html mark up is straighforward, moderately easy. 
+What has been difficult?
+A: This module is modorately easy, but the other module I was working on, Using GitHub with teachers Sarah and Catherine was difficult - concepts were difficult to absorb. But I finally did, I think. 
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+A: Web is a great source, especially if one knows WHERE to look...MDN, Stackoverflow, and other documentation sites. 
